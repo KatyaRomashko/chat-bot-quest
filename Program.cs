@@ -10,7 +10,7 @@ namespace commentsNotifBot
 {
     class Program
     {
-        private static string token { get; set; } = "7157216550:AAGeU773ecqkR2t-9s4iDBhAIYxJuZEjMmA";
+        private static string token { get; set; } = "";
         private static TelegramBotClient Bot;
         static void Main(string[] args)
         {
