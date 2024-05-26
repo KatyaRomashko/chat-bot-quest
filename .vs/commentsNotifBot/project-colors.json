@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "3d5195d8-81d4-434d-b564-cbd7e9b46efe": {
+      "ProjectGuid": "3d5195d8-81d4-434d-b564-cbd7e9b46efe",
+      "DisplayName": "commentsNotifBot",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5NIXs1zj28G0yYJ5uUw+u1SAhCOXqiZOF7auw4PF8hkKguFBIO/2oowDoOBLUt9kgXX1xNRHGqcBzgIPeqlQ8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Катя\\source\\repos\\QuestBOT\\commentsNotifBot\\commentsNotifBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Катя\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Катя\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\Катя\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512",
+    "C:\\Users\\Катя\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
